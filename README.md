@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/24527535/182916425-91db8eec-b712-407d-93fd-fe4c338904f3.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/24527535/182916628-4ab6a232-08d5-43ce-bc06-5647eb509dc8.png)
 <p align="center">
     A passionate frontend developer from England
 </p>
