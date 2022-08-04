@@ -1,9 +1,10 @@
-<p align="center">
+<h1 align="center">
     Hi 👋, I'm Ibby
-</p>
+</h1>
 <p align="center">
     A passionate frontend developer from England
 </p>
+
 <!--
 **neon7860/neon7860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +24,9 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![image](https://www.codewars.com/users/neon7860/badges/large)
+
+<!--<p align="center">
+  <img width="200" src="https://www.codewars.com/users/neon7860/badges/large" alt="CodeWars Rank">
+</p>
+-->
+
