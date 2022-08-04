@@ -1,6 +1,4 @@
-<h1 align="center">
-    Hi 👋, I'm Ibby
-</h1>
+![github-header-image](https://user-images.githubusercontent.com/24527535/182916425-91db8eec-b712-407d-93fd-fe4c338904f3.png)
 <p align="center">
     A passionate frontend developer from England
 </p>
