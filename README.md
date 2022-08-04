@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 
 
-
-<!--<p align="center">
+<h3>Codewars Rank</h3>
+<p align="center">
   <img width="200" src="https://www.codewars.com/users/neon7860/badges/large" alt="CodeWars Rank">
 </p>
--->
+
 
