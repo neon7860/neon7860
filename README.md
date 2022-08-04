@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<p align="center">
+    Hi 👋, I'm Ibby
+</p>
+<p align="center">
+    A passionate frontend developer from England
+</p>
 <!--
 **neon7860/neon7860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
